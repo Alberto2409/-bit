@@ -1,0 +1,19 @@
+
+
+        body {
+            background-color: rgb(117, 103, 104);
+            padding: 000px;
+            height: 200px;
+            text-align: center;
+        }
+        
+
+      .color{
+            background-color: antiquewhite;
+            height: 1000px;
+            width: 950px;
+        }
+        .p{
+            text-emphasis: none;
+        }
+        

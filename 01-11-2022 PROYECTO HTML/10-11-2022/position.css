@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(107, 226, 226);
+    width: 0;
+    position: absolute;
+    display: inline-block;
+    bottom: 5px;
+    left: 0;
+    transition: all is ease-in ease-in-out;
+}
+.Hola {
+    width: 100px;
+    transition: all is ease-in-out;
+    padding: 0px;
+}
+.menu {
+    padding: 15px;
+    background-color: rgb(243, 173, 87);
+    position: fixed;
+    width: 500px;
+    z-index: 1;
+}
+
+.menu ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menu li {
+    list-style: none;
+    width: 90px;
+    height: 40px;
+    background-color: rgb(141, 76, 76);
+    margin: 0 15px;
+    padding: 20px
+}
+.padre {
+    height: 0;
+    width: 50px;
+    padding: 50px;
+    background-color: rgb(34, 180, 65);
+
+
+}

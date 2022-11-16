@@ -1,0 +1,84 @@
+
+
+.body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(181, 218, 213);
+    color: rgb(10, 1, 1);
+}
+
+
+li{
+    list-style: none;
+}
+
+.itemol{
+
+    list-style: none;
+    background-position: 0ch;
+   font-size: large;
+   font-weight: 200;
+   font-variant: inherit;
+
+}
+  
+ .div{
+    background-color: aqua;
+ }
+
+ .box{
+    background-color: rgb(0, 255, 42);
+    height: 150px;
+    width: 200px;
+ }
+ .itemol{
+    background-color: rgb(213, 235, 88);
+ }
+ 
+ .ul{
+    background-color: rgb(255, 166, 0);
+    width: 200px;
+    height: 100px;
+ }
+   .header{
+    background-color: rgb(120, 67, 139);
+   }
+   
+   .header{
+    height: 200px;
+    background-color: rgb(243, 239, 23);
+    width: 600px;
+   }
+   
+   .header{
+    color: rgb(13, 214, 241);
+}
+    .main{
+        background-color: rgb(57, 57, 65);
+        height: 600px;
+        width: 1000px;
+
+    }
+.main h1{
+    color: rgba(79, 238, 198, 0.897);
+    height: 00px;
+
+}
+.main p{
+    color: azure;
+}
+   
+    
+    
+
+  
+
+
+
+
+    
+
+
+   
+
+
+
